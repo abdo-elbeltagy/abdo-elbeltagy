@@ -20,7 +20,8 @@ I'm passionate about **Backend Engineering**, **Cloud & DevOps**, and **AI-drive
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Elbeltagy-blue?logo=linkedin)]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abdelrahman-elbeltagy/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Elbeltagy-blue?logo=linkedin)](https://www.linkedin.com/in/abdelrahman-elbeltagy/)  
+
 [![Email](https://img.shields.io/badge/Email-abdelrahman@example.com-red?logo=gmail)](mailto:abdo.elbeltagy401@gmail.com)
 
 ---
