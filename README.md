@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 I'm **Abdelrahman Elbeltagy**, a **Computer Science Master's graduate from the Technical University of Munich (TUM)**.  
-I'm passionate about **Backend Engineering**, **Cloud & DevOps**, and **AI-driven systems** — combining clean architecture with automation to build scalable and reliable software.
+I'm passionate about **Backend Engineering**, **Cloud & DevOps**, and **AI-driven systems** combining clean architecture with automation to build scalable and reliable software.
 
 ---
 
