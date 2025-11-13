@@ -28,6 +28,11 @@ I'm passionate about <strong>Backend Engineering</strong>, <strong>Cloud & DevOp
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdo-Elbeltagy&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Abdo-Elbeltagy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdo-Elbeltagy&show_icons=true&locale=en&theme=github_dark" alt="Abdo-Elbeltagy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdo-Elbeltagy&theme=github_dark" alt="Abdo-Elbeltagy" /></p>
+
 ⭐️ *“Strive for clean architecture, scalable systems, and continuous learning.”*
 
 
