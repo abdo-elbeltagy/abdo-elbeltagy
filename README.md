@@ -1,7 +1,9 @@
-## 👋 Hi there!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Abdelrahman <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Thinking Face" width="35" height="35" /></h1>
 
-I'm **Abdelrahman Elbeltagy**, a **Computer Science Master's graduate from the Technical University of Munich (TUM)**.  
-I'm passionate about **Backend Engineering**, **Cloud & DevOps**, and **AI-driven systems** combining clean architecture with automation to build scalable and reliable software.
+<p align="center">
+A <strong>Computer Science Master's graduate from the Technical University of Munich (TUM)</strong>.<br>
+I'm passionate about <strong>Backend Engineering</strong>, <strong>Cloud & DevOps</strong>, and <strong>AI-driven systems</strong> combining clean architecture with automation to build scalable and reliable software.
+</p>
 
 ---
 
