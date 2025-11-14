@@ -24,7 +24,7 @@ I'm passionate about <strong>Backend Engineering</strong>, <strong>Cloud & DevOp
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Elbeltagy-blue?logo=linkedin)](https://www.linkedin.com/in/abdelrahman-elbeltagy/)  
 
-[![Email](https://img.shields.io/badge/Email-abdelrahman@example.com-red?logo=gmail)](mailto:abdo.elbeltagy401@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abdo.elbeltagy401@gmail.com-red?logo=gmail)](mailto:abdo.elbeltagy401@gmail.com)
 
 ---
 
